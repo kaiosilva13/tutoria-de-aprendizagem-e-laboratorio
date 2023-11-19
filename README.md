@@ -1,0 +1,2 @@
+# tutoria-de-aprendizagem-e-laboratorio
+ Este repositório contém todas as informações e arquivos do projeto de Tutoria de Aprendizagem e Laboratório (TAL) , vivenciado no IFRN - Campus Currais Novos, projeto esse que visa o auxílio para alunos dos cursos de Informática nas discilinas de programação. O TAL visa o auxílio dentro e fora de sala de aula, para que os alunos possam ter uma melhor experiência e um melhor rendimento.
